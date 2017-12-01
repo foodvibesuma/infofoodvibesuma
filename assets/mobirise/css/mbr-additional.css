@@ -49,11 +49,11 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 0.8rem;
+  font-family: 'Pacifico', handwriting;
+  font-size: 1.3rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 2.08rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -622,14 +622,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
-  font-size: 0.8rem;
+  font-family: 'Pacifico', handwriting;
+  font-size: 1.3rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 2.08rem;
 }
 .form-control,
 .form-control:focus {
@@ -2359,6 +2359,13 @@ body {
 }
 .cid-qC6I1tSJ8E .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-qC6I1tSJ8E H2 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-qC6I1tSJ8E P {
+  color: #ffffff;
 }
 .cid-qAosI95bxL .navbar {
   background: #ffffff;
