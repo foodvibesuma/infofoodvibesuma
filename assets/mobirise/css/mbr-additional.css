@@ -580,8 +580,8 @@ a:hover {
   color: #fcf9cc;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
