@@ -3191,32 +3191,28 @@ body {
 .cid-qC6Sw7BZtC .card-title B {
   color: #ffffff;
 }
-.cid-qDYi2FTyqZ {
+.cid-qDZzulqaNh {
   padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1512x1080.jpg");
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-1-1512x1080.jpg");
 }
 @media (min-width: 992px) {
-  .cid-qDYi2FTyqZ .mbr-figure {
+  .cid-qDZzulqaNh .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-qDYi2FTyqZ .mbr-figure {
+  .cid-qDZzulqaNh .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qDYi2FTyqZ .mbr-text {
+  .cid-qDZzulqaNh .mbr-text {
     text-align: center;
   }
 }
-.cid-qDYi2FTyqZ H3 {
-  color: #ffffff;
+.cid-qDZzulqaNh H1 {
   text-align: center;
-}
-.cid-qDYi2FTyqZ B {
-  color: #ffffff;
 }
 .cid-qAosI95bxL .navbar {
   background: #ffffff;
