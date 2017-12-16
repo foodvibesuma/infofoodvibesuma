@@ -35,11 +35,11 @@ body {
   font-size: 4rem;
 }
 .display-4 {
-  font-family: 'Poppins', sans-serif;
-  font-size: 0.8rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 2rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 3.2rem;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -49,11 +49,11 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Poppins', sans-serif;
-  font-size: 1rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.8rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -72,9 +72,9 @@ body {
     line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.64rem;
-    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -622,14 +622,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Poppins', sans-serif;
-  font-size: 1rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .form-control,
 .form-control:focus {
@@ -3212,11 +3212,11 @@ body {
   }
 }
 .cid-qDYi2FTyqZ H3 {
-  color: #232323;
+  color: #ffffff;
   text-align: center;
 }
 .cid-qDYi2FTyqZ B {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-qAosI95bxL .navbar {
   background: #ffffff;
@@ -3596,7 +3596,7 @@ body {
   flex-basis: auto;
 }
 .cid-qC5tiLPpHW {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
