@@ -39,7 +39,10 @@
     },
     "versionFirst": "4.4.0",
     "uniqCompNum": 119,
-    "versionPublish": "4.4.0"
+    "versionPublish": "4.4.0",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111535555-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111535555-1');\r\n</script>"
   },
   "pages": {
     "page5.html": {
@@ -2440,7 +2443,7 @@
       "settings": {
         "main": true,
         "title": "foodvibes.org",
-        "meta_descr": " Food Vibes es una campaña social, lanzada por estudiantes de la Universidad de Málaga, con la intención de mejorar las costures alimenticias de los estudiantes de la Universidad de Málaga, así como servir de referente a otras Universidades e incluso a una población mayor no universitaria.\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111535555-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-111535555-1');\n</script>",
+        "meta_descr": " Food Vibes es una campaña social, lanzada por estudiantes de la Universidad de Málaga, con la intención de mejorar las costures alimenticias de los estudiantes de la Universidad de Málaga, así como servir de referente a otras Universidades e incluso a una población mayor no universitaria.\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
